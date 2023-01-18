@@ -99,7 +99,7 @@
   
   </div>
  
- ![Lygia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lygiaclc&theme=dark&show_icons=true)
+ ![Lygia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lygiaclc&theme=panda&show_icons=true)
 
 <!---
 lygiaclc/lygiaclc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
