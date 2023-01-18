@@ -99,15 +99,6 @@
   
   </div>
   
-  <div>
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lygiaclc&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lygiaclc&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=lygiaclc&theme=minimal"/>
-<img height="180em" src="https://gists-readme.yizack.com/api/pin?user=lygiaclc&id={gist_id}&owner=true"/>
-                                                                                                                               
-</div>
-
 <!---
 lygiaclc/lygiaclc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
