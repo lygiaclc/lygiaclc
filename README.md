@@ -98,9 +98,18 @@
   ![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   
   </div>
+  
+  <div>
  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lygiaclc)]
+  
+  </div>
+  
+  <div>
+  
  ![Lygia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lygiaclc&theme=panda&show_icons=true)
 
+  </div>
 <!---
 lygiaclc/lygiaclc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
