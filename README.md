@@ -110,6 +110,12 @@
  ![Lygia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lygiaclc&theme=panda&show_icons=true)
 
   </div>
+  
+  <div>
+  
+ ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 <!---
 lygiaclc/lygiaclc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
