@@ -47,7 +47,7 @@
  
  <div align='center'>
 
-<a href="https://www.linkedin.com/in/lygia-cipriano-8ba9bb25b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="my linkedin"></a>
+<a href="https://www.linkedin.com/in/lygia-cipriano-94a748345/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="my linkedin"></a>
 <a href="mailto:lygia.clc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My E-mail"></a>
 <a href="https://www.instagram.com/lygiacristhina.libras"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram"></a>
 
