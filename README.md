@@ -6,8 +6,7 @@
  ## Sobre mim
  
  <p>
-    Atualmente, estudo tecnologias de Front-End, pois pretendo realizar uma transição de carreira o quanto antes. Minha primeira formação é Pedagogia, porém me identifico
-   muito com a área de desenvolvimento e criação de novas tecnologias.
+    Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela UFBRA, pois pretendo realizar uma transição de carreira o quanto antes. Minha primeira formação é Pedagogia, porém me identifico muito com a área de desenvolvimento e criação de novas tecnologias.
   </p>
   
   - Hard Skills: HTML, CSS, JavaScript, Git, Github, ReactJs
@@ -26,7 +25,10 @@
  - Faculdade Via Sapiens | Dezembro 2020 - Julho 2021
   
   <p>Extensão Universitária em Tradução e Interpretação de Libras (Língua Brasileira de Sinais)</p> 
+
+   - UFBRA | Janiero 2025 - Julho 2027
   
+  <p>Tecnólogo em Análise e Desenvolvimento de Sistemas</p> 
   
 <h2> Plataformas de estudo </h2>
   
@@ -47,7 +49,7 @@
 
 <a href="https://www.linkedin.com/in/lygia-cipriano-8ba9bb25b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="my linkedin"></a>
 <a href="mailto:lygia.clc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My E-mail"></a>
-<a href="https://www.instagram.com/lygiaclc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram"></a>
+<a href="https://www.instagram.com/lygiacristhina.libras"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram"></a>
 
 </div>
 
